@@ -1,0 +1,6 @@
+﻿*.pem
+*.ppk
+.env
+.DS_Store
+*.swp
+credentials
