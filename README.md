@@ -2,7 +2,7 @@
 
 A single CloudFormation template that provisions an isolated multi-AZ VPC with a bastion host and two private application instances. Built twice — once through the console, once as code — as a study in what infrastructure-as-code actually buys you.
 
-> Full write-up: [I Built the Same Bastion Architecture Twice](http://LINK)
+> Full write-up: [I Built the Same Bastion Architecture Twice](https://medium.com/@waynebcyber17/i-built-the-same-bastion-architecture-twice-first-by-hand-then-in-code-a177a16e9323?postPublishedType=initial)
 
 ---
 
@@ -270,7 +270,7 @@ For anything else, VPC → **Reachability Analyzer** will identify the exact hop
 
 └── docs/
 
-    └── architecture.png         \# Diagram
+    └── architecture.svg         \# Diagram
 
 ---
 
